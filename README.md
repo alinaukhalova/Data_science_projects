@@ -1,7 +1,7 @@
 # Data_science_projects
-В данном репозитории хранятся DS/DA/ML проекты,  выполненные мною в рамках обучения на курсе Яндекс.Практикума "Специалист по Data Science".
+В этом репозитории собраны проекты в области Data Science, Data Analysis и Machine Learning, которые я выполнила в процессе обучения на курсе "Специалист по Data Science" в Яндекс.Практикум.
 
-Краткое описание проектов и ссылки:
+Краткое описание проектов и ссылки на них:
 | |Название|Краткое описание|Инструменты|Задачи|
 |--|----|----|-|----|
 | 1.  | [Предсказание уровня удовлетворённости сотрудника <br> (Employee-satisfaction-level-prediction)](https://github.com/alinaukhalova/Data_science_projects/tree/main/Employee-satisfaction-level-prediction) |     Решение задач по предсказанию уровня удовлетворённости сотрудника и вероятности увольнения из компании       |      ![](https://img.shields.io/badge/-Python-98C79D) ![](https://img.shields.io/badge/-Pandas-A4C4B4) ![](https://img.shields.io/badge/-Matplotlib-DAA1A9) ![](https://img.shields.io/badge/-Sklearn-F9E1A1) ![](https://img.shields.io/badge/-Seaborn-CAB8E6) ![](https://img.shields.io/badge/-EDA-90D3C3)   ![](https://img.shields.io/badge/-phik-D2B48C)  ![](https://img.shields.io/badge/-shap-C8A2C8)  ![](https://img.shields.io/badge/-DecisionTree-A8D5A2) ![](https://img.shields.io/badge/-KNeighbors-A2C8F5) ![](https://img.shields.io/badge/-LogisticRegression-F5A8C8) ![](https://img.shields.io/badge/-RandomForest-C9D5A8)    |  Задачей было построить модель, которая предсказывает уровень удовлетворённости сотрудника на основе данных компании, а также модель, которая предсказывает вероятность увольнения сотрудника, используя информацию о компании.|
